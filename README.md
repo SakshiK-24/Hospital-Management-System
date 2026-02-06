@@ -1,7 +1,7 @@
 # 🏥 Hospital Management System
 
 ### A desktop-based Hospital Management System developed using **Python (Tkinter)** and **MySQL**.  
-This application allows users to manage patient prescription records efficiently through a graphical user interface (GUI) integrated with a relational database.
+### This application allows users to manage patient prescription records efficiently through a graphical user interface (GUI) integrated with a relational database.
 ---
 
 
